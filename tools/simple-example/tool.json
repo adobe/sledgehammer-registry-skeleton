@@ -1,0 +1,6 @@
+{
+    "description": "Just a simple tool if you already have a docker container and just want to reference it here",
+    "image": "<your docker image>",
+    "entry": ["<the entrypoint of the image>"],
+    "type": "hub|frog"
+}

@@ -1,0 +1,5 @@
+{
+    "description": "Describe your tool here",
+    "image": "<image - should match what you set in the make.sh file>",
+    "type": "hub|frog"
+}
